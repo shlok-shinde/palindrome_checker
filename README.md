@@ -3,6 +3,9 @@
 This is a simple web-based Palindrome Checker application. It allows users to enter text and check whether the input is a palindrome — a word or sentence that reads the same forwards and backwards, ignoring punctuation, case, and spacing.
 <img width="1894" height="903" alt="image" src="https://github.com/user-attachments/assets/9ce3821b-bf75-4127-be3c-5675058a8f15" />
 
+## 🔗 Live Demo
+
+👉 [**View Live on GitHub Pages**](https://shlok-shinde.github.io/palindrome_checker)
 
 ## Features
 
@@ -38,3 +41,4 @@ The checker normalizes the input by removing all non-alphanumeric characters and
 ## License
 
 This project is open source and free to use.
+
